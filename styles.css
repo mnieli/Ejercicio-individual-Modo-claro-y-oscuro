@@ -1,0 +1,18 @@
+body {
+    transition: background-color 0.3s ease;
+  }
+  
+  .jumbotron {
+    background-color: #f8f9fa; /* Color de fondo en modo claro */
+    color: #212529; /* Color de texto en modo claro */
+  }
+  
+  .table {
+    background-color: #ffffff; /* Color de fondo de la tabla en modo claro */
+    color: #212529; /* Color de texto de la tabla en modo claro */
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: #007bff; /* Color del texto de los enlaces en modo claro */
+  }
+  
